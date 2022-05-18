@@ -893,13 +893,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .school__slider .slick-arrow.slick-prev {
-  background: url(/maket/img/school/arrow_l.png) 48% 50%/auto 31% no-repeat;
+  background: url(../img/school/arrow_l.png) 48% 50%/auto 31% no-repeat;
   background-color: #00D254;
   left: 0;
 }
 
 .school__slider .slick-arrow.slick-next {
-  background: url(/maket/img/school/arrow_r.png) 53% 50%/auto 31% no-repeat;
+  background: url(../img/school/arrow_r.png) 53% 50%/auto 31% no-repeat;
   background-color: #00D254;
   right: 0;
 }
